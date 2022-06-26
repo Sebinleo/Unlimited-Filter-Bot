@@ -3,8 +3,8 @@ class Script(object):
     START_MSG = """<b>Hy {},
 Bot നിങ്ങൾക് Use ചെയ്യാൻ പറ്റുല്ല.
 
-@Cinemacollectionadmin !
-ങ്ങടെ 5 Friends നെ ഗ്രൂപ്പിൽ +Add ചെയ്തു Support ചെയുക. 🙏.
+@red_x_skuller !
+നിങ്ങളുടെ 5 Friends നെ ഗ്രൂപ്പിൽ +Add ചെയ്തു Support ചെയുക. 🙏.
 See <i>/help</i> for commands and more details.</b>
 """
 
